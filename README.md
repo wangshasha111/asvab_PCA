@@ -12,10 +12,10 @@ The ASVAB, or Armed Services Vocational Aptitude Battery, is a standardized test
 The NLSY79 collected information about a variety of standardized achievement tests commonly taken by young adults in junior high school and high school. The Transcript Survey is a 1980-83 collection of high school transcript information, which included the gathering of math and verbal scores from such tests as the Preliminary Scholastic Aptitude Test (PSAT), the Scholastic Aptitude Test (SAT), and the American College Test (ACT). The High School Survey is a 1980 survey of high schools, which used school records to collect scores from various aptitude/intelligence tests and college entrance examinations administered during the youth's high school career. Finally, during the summer and fall of 1980, NLSY79 respondents participated in an effort of the U.S. Departments of Defense and Military Services to update the norms of the Armed Services Vocational Aptitude Battery (ASVAB).
 
 ## Output
-I output pictures of factor loadings and the scree plot to examine the principal components.
+I output pictures of [factor loadings](https://github.com/wangshasha111/using-Principal-Component-Analysis-to-categorize-skills/blob/main/asvab_loadings_4comp.png) and the [scree plot](https://github.com/wangshasha111/using-Principal-Component-Analysis-to-categorize-skills/blob/main/asvab_scree_var.png) to examine the principal components.
 
 ## Takeaways
-The about 10 test items can be categorized into 5 categories: math, verbal, science, mechanical, and administrative. This is the base for my further research using machine learning methods to study gender differences.
+The about 10 test items can be categorized into five categories: math, verbal, science, mechanical, and administrative. This is the base for my further research using machine learning methods to study gender differences.
 
 
 
